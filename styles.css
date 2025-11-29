@@ -20,3 +20,55 @@ color: rgb(23, 114, 84)
   padding:2ream;
   text-align: center;
 }
+
+.subtitule{
+  opacity:50%
+}
+
+.content{
+display:flex;/*coloca las tarjetas una al ldo de la otra*/
+gap: 3rem ;/*separa las tarjetas */
+flex-wrap:wrap; /*permite que ls tarjetas*/
+justify-content: center;
+padding: 2rem;
+
+}
+
+.card{
+  background:rgb(62, 15, 88) ;
+  padding:1.25rem;
+  border-radius:22px;
+  box-shadow:0.6px 18x rgb(32, 102, 79); /*da profundidad */
+  width: 300px;
+}
+  .card h2{
+    margin-bottom:0.5rem;
+  color: rgb(31, 53, 53);
+}
+.card p{
+  margin-bottom: 1rem;
+  color: rgb(103, 105, 107);
+}
+
+
+.btn{
+  display:inline-block;
+padding:0.5rem 1rem;
+background:rgb(150, 99, 99) ;
+border-radius: 8px;
+color: black;
+
+}
+
+card a{
+  justify-content:center;
+ display:flex;
+ text-align:center;
+}
+
+
+.site-footer{
+  text-align:center;
+  padding:1rem;
+  color: rgb(129, 131, 38);
+} 
