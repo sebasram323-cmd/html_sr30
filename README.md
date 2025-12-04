@@ -7,7 +7,7 @@ Este proyecto se genero para inplementar una pagina cin html y ccs y repositorio
 
 ## Como ejecutar el proyecto
 1. Clonar el repocitorio
-git clone https://github.com/jarvisalarconarias758-netizen/html_Jarvis2008.git
+git clone https:https://github.com/sebasram323-cmd/html_sr30.git
 2. Abre el archibo index.html en su navegador 
 
 ## Requisitos <!--Seccion donde se explica que requerimientos debe tener el usuario-->
@@ -30,6 +30,7 @@ Las contribuciones son bienvenidas, si desea participar
 Este proyecto esta bajo la licencia MIT
 
 ## seccion repo remoto
+
 
 
 
